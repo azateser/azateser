@@ -4,7 +4,7 @@
 
 ## I'm a Fullstack Developer
 
-- 🌱 I am currently learning more about fullstack development.
+- 🌱 I am currently learning more about fullstack [more frontend] development.
 - 📫 What is the best way to contact me? [Linkedin](linkedin.com/in/azat-eser-304a46221)
 - 😄 Pronouns: He/Him ![](https://komarev.com/ghpvc/?username=azateser&color=0ca4a5)
 
