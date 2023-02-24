@@ -29,7 +29,7 @@
 JavaScript
 ██████████████████████░░░   85% 
 
-HTML + CSS (Tailwind)
+HTML + CSS (SCSS)
 ████░░░░░░░░░░░░░░░░░░░░░   10% 
 
 Other
