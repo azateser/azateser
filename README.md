@@ -5,7 +5,7 @@
 ## I'm a Frontend Developer
 
 - 🌱 I am currently learning more about frontend development.
-- 📫 What is the best way to contact me? [Linkedin](linkedin.com/in/azat-eser-304a46221)
+- 📫 What is the best way to contact me? [Linkedin](https://www.linkedin.com/in/azateser)
 - 😄 Pronouns: He/Him ![](https://komarev.com/ghpvc/?username=azateser&color=0ca4a5)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azateser/)
